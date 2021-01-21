@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.11.3)
+cmake_minimum_required(VERSION 3.16.3)
 
 # Set the C++ standard we will use
 set(CMAKE_CXX_STANDARD 17)
